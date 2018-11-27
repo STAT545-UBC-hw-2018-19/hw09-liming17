@@ -2,7 +2,7 @@ STAT545 HW09
 =============
 Hello, this is the hw09 of STAT545
 
-The original repository is from [STAT 545] class activity(https://github.com/STAT545-UBC/make-activity). And this hw09 added new Rscript and rmd file, as well as edited the `Makefile`
+The original repository is from [STAT 545 class activity](https://github.com/STAT545-UBC/make-activity). And this hw09 added new Rscript and rmd file, as well as edited the `Makefile`
 
 ### What's new?
 
