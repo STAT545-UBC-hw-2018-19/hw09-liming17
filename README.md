@@ -24,4 +24,4 @@ The original repository is from [STAT 545 class activity](https://github.com/STA
 
 - [letterReport.md](https://github.com/STAT545-UBC-students/hw09-liming17/blob/master/letterReport.md)
 
-- [letterReport,html](https://htmlpreview.github.io/?https://github.com/STAT545-UBC-students/hw09-liming17/blob/master/letterReport.html)
+- [letterReport.html](https://htmlpreview.github.io/?https://github.com/STAT545-UBC-students/hw09-liming17/blob/master/letterReport.html)
