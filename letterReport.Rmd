@@ -1,0 +1,24 @@
+---
+title: "letter counting"
+author: "Liming Liu"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    keep_md: yes
+---
+
+```{r load-hist-dat, include = FALSE}
+letter_dat <- read.delim("letterCount.tsv")
+```
+
+
+I counted the number of each letters in word.txt, and write the result into letterCount.tsv
+
+
+Here is a histogram of letter counting in word.txt
+
+![*Fig. 2* A histogram of letter counting](letter.png)
+
+The most frequent letter in word.txt is `r with(letter_dat, letters[which.max(x)])`, which goes to about 230000
+
+The least frequent letter in word.txt is `r with(letter_dat, letters[which.min(x)])`, which only has about 2500
